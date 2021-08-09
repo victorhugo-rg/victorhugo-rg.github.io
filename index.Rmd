@@ -1,0 +1,34 @@
+---
+title: "Victor Hugo Rosales-Gallegos"
+image: "20210623_133128(1).jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/victor-hugo-rosales-gallegos-757633181/"
+  - label: Twitter
+    url: "https://twitter.com/victor_hugo_rg"
+  - label: GitHub
+    url: "https://github.com/victorhugo-rg/"
+  - label: Instagram
+    url: "https://www.instagram.com/victorhugo.rg/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I'am a MSc. student at the National Institute of Genomic Medicine in Mexico City. My research focuses on circulating tumor cells and pancreatic cancer transcriptomes.\
+Bioinformatics enthusiast who loves hiking, swimming and playing guitar.\ 
+Sometimes I do livestreaming on Twitch.\
+
+
+## Education
+
+**Universidad Nacional Autónoma de México** | Mexico City
+
+MSc. candidate in Biological Sciences | August 2019 - August 2021
+
+**Facultad de Ciencias, Universidad Nacional Autónoma de México** | Mexico City
+
+B.S. in Biology | August 2014 - January 2019
